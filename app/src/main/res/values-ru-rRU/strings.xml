@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Dinislam2</string>
+    <string name="ChoiceOfLanguage">Изменить язык</string>
+    <string name="menu">Меню</string>
+    <string name="list">Список</string>
+    <string name="map">Карта</string>
+    <string name="scaling">Изображения</string>
+    <string name="parsing">Парсер</string>
+    <string name="open_menu">Открыть</string>
+    <string name="close_menu">Закрыть</string>
+    <string name="inGalery">Из Галереи</string>
+    <string name="inCamera">На Камеру</string>
+    <string name="add">Добавить</string>
+    <string name="addNewItemName">Добавить имя нового элемента</string>
+    <string name="done">Добавить</string>
+    <string name="revert">Отменить</string>
+    <string name="savev">Сохранить</string>
+    <string name="yes">Да</string>
+    <string name="no">Нет</string>
+    <string name="edit">Редактировать</string>
+    <string name="delete">Удалить</string>
+    <string name="english">Английский</string>
+    <string name="russian">Русский</string>
+    <string name="coordinates">Широта = %1$.4f, Долгота = %2$.4f</string>
+    <string name="gpsstatus">GPS не включен</string>
+</resources>
